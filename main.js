@@ -1,4 +1,5 @@
-const cards = {
+const cards = {}
+cards.cc1 = {
   "Ace" : {
     "value" : 11
   },
@@ -7,5 +8,16 @@ const cards = {
   },
   "Queen" : {
     "value" : 10
-  }
+  },
 };
+cards.cc2 = [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+];
