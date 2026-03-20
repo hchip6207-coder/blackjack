@@ -9,6 +9,9 @@ cards.cc1 = {
   "Queen" : {
     "value" : 10
   },
+  "Joker" : {
+    "value" : 21
+  }
 };
 cards.cc2 = [
   2,
